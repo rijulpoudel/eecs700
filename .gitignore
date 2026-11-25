@@ -1,5 +1,7 @@
 .venv/
 .vscode/
+__pycache__/
 
 GallerySet/
 ProbeSet/
+*.csv
